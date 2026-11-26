@@ -1,0 +1,38 @@
+[
+  {
+    "id": "labor-standards-act",
+    "name": "勞動基準法"
+  },
+  {
+    "id": "labor-union-act",
+    "name": "工會法"
+  },
+  {
+    "id": "collective-agreement-act",
+    "name": "團體協約法"
+  },
+  {
+    "id": "act-for-settlement-of-labor-management-disputes",
+    "name": "勞資爭議處理法"
+  },
+  {
+    "id": "labor-insurance-act",
+    "name": "勞工保險條例"
+  },
+  {
+    "id": "labor-pension-act",
+    "name": "勞工退休金條例"
+  },
+  {
+    "id": "employee-welfare-fund-act",
+    "name": "職工福利金條例"
+  },
+  {
+    "id": "labor-incident-act",
+    "name": "勞動事件法"
+  },
+  {
+    "id": "occupational-safety-and-health-act",
+    "name": "職業安全衛生法"
+  }
+]

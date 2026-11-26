@@ -1,0 +1,66 @@
+[
+  {
+    "id": "labor-standards-act-article-1-para-2",
+    "lawId": "labor-standards-act",
+    "lawName": "勞動基準法",
+    "article": "第1條第2項",
+    "articleText": "雇主與勞工所訂勞動條件，不得低於本法所定之最低標準。",
+    "question": "雇主與勞工約定的勞動條件，可以低於《勞動基準法》的最低標準嗎？",
+    "answer": "不可以。雇主與勞工所訂勞動條件，不得低於本法所定之最低標準。",
+    "explanation": "《勞動基準法》提供勞動條件的最低保障。勞雇雙方可以約定更好的條件，但不能約定低於法定最低標準。",
+    "examFocus": "記住勞動條件不得低於法定最低標準。",
+    "commonMistake": "誤以為勞雇雙方只要合意，就可以約定低於法定最低標準的勞動條件。",
+    "sourceUrl": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030001",
+    "lawVersion": "2024-07-31",
+    "verifiedAt": "2026-11-25",
+    "difficulty": "easy",
+    "tags": [
+      "勞動條件",
+      "最低標準",
+      "總則"
+    ]
+  },
+  {
+    "id": "labor-standards-act-article-2-1",
+    "lawId": "labor-standards-act",
+    "lawName": "勞動基準法",
+    "article": "第2條第1款",
+    "articleText": "受雇主僱用從事工作獲致工資者",
+    "question": "依《勞動基準法》，條文如何定義「勞工」？",
+    "answer": "受雇主僱用從事工作獲致工資者",
+    "explanation": "這是《勞動基準法》第2條第1款對「勞工」的原文定義。背誦時請保留條文用語；本卡的白話說明與法條原文分欄呈現。",
+    "examFocus": "熟記「勞工」的法條原文定義。",
+    "commonMistake": "背誦時自行改寫或增刪法條原文，導致定義文字不完整或與條文不符。",
+    "sourceUrl": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030001",
+    "lawVersion": "2024-07-31",
+    "verifiedAt": "2026-11-25",
+    "difficulty": "medium",
+    "tags": [
+      "勞工定義",
+      "名詞解釋",
+      "總則"
+    ]
+  },
+  {
+    "id": "labor-standards-act-article-2",
+    "lawId": "labor-standards-act",
+    "lawName": "勞動基準法",
+    "article": "第 2 條",
+    "articleTitle": "本法用詞，定義如下：",
+    "articleText": "本法用詞，定義如下：\n\n一、勞工：指受雇主僱用從事工作獲致工資者。\n\n二、雇主：指僱用勞工之事業主、事業經營之負責人或代表事業主處理有關勞工事務之人。\n\n三、工資：指勞工因工作而獲得之報酬；包括工資、薪金及按計時、計日、計月、計件以現金或實物等方式給付之獎金、津貼及其他任何名義之經常性給與均屬之。\n\n四、平均工資：指計算事由發生之當日前六個月內所得工資總額除以該期間之總日數所得之金額。工作未滿六個月者，指工作期間所得工資總額除以工作期間之總日數所得之金額。工資按工作日數、時數或論件計算者，其依上述方式計算之平均工資，如少於該期內工資總額除以實際工作日數所得金額百分之六十者，以百分之六十計。\n\n五、事業單位：指適用本法各業僱用勞工從事工作之機構。\n\n六、勞動契約：指約定勞雇關係而具有從屬性之契約。\n\n七、派遣事業單位：指從事勞動派遣業務之事業單位。\n\n八、要派單位：指依據要派契約，實際指揮監督管理派遣勞工從事工作者。\n\n九、派遣勞工：指受派遣事業單位僱用，並向要派單位提供勞務者。\n\n十、要派契約：指要派單位與派遣事業單位就勞動派遣事項所訂立之契約。",
+    "sourceUrl": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=2",
+    "lawVersion": "2024-07-31",
+    "verifiedAt": "2026-11-25",
+    "difficulty": "medium",
+    "tags": [
+      "總則",
+      "勞工定義",
+      "雇主定義",
+      "工資定義",
+      "平均工資",
+      "勞動契約",
+      "派遣"
+    ],
+    "cardType": "article"
+  }
+]
